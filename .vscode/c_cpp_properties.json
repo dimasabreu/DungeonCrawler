@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"name": "DungeonCrawlerEditor Editor Win64 Development (DungeonCrawler)",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_DungeonCrawler.json"
+		},
+		{
+			"name": "Win32",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}

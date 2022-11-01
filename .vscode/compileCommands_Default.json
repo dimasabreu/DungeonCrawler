@@ -1,0 +1,67 @@
+[
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawler.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawler.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawler.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerCharacter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerCharacter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerProjectile.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\DungeonCrawlerProjectile.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\TP_PickUpComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\TP_PickUpComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\TP_WeaponComponent.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\Source\\DungeonCrawler\\TP_WeaponComponent.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.33.31629\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\dimas\\Desktop\\Unreal Projects\\DungeonCrawler\\.vscode\\compileCommands_Default\\DungeonCrawler.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
